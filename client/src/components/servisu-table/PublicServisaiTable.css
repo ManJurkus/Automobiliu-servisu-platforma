@@ -1,0 +1,92 @@
+.line {
+    background:#ffbc00;
+    width: 3rem;
+    height: 2px;
+    display: inline-block;
+    text-align: center;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.card-underline {
+    margin-bottom: 1.5rem;
+    margin-top: 0 
+}
+
+.card-box p {
+    color: #444;
+    letter-spacing: 0.03em;
+    margin: 0;
+    padding-bottom: 8px;
+}
+
+.display-7 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1rem;
+}
+
+.mbr-text {
+    font-style: normal;
+    line-height: 1.6;
+}
+
+.btn-public {
+    margin: 0.3rem;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary.active {
+    background-color: #ffbc00;
+    border-color: #ffbc00;
+    color: #ffffff;
+}
+
+.display-4 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8rem;
+}
+
+.btn-public {
+    border-radius: 0;
+    font-weight: 600;
+    border-width: 2px;
+    text-decoration: none;
+    font-style: normal;
+    letter-spacing: 2px;
+    margin: 0.4rem 0.8rem;
+    padding: 0.8rem 2rem;
+    border-radius: 0px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    word-break: break-word;
+}
+
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+    height: 250px;
+    /* max-height:100%;
+    max-width: 100%; */
+    object-fit:contain;
+    object-position:center;
+ 
+} 
+
+.card-img {
+    text-align: center;
+    flex-shrink: 0;
+    
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+.card {
+    background-color: transparent;
+    border: none;
+}
